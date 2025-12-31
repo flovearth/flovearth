@@ -6,8 +6,9 @@ Welcome to my GitHub profile! Here's a quick look at my GitHub activity and top 
 
 ## 📊 GitHub Statistics
 
-[![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=flovearth&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&count_private=true)](https://github.com/flovearth) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flovearth&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/flovearth) 
-| ----------- | ------------ |
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=flovearth&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=flovearth&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=flovearth&layout=compact&theme=radical)
 
 ---
 
