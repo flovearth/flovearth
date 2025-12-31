@@ -4,13 +4,14 @@ Welcome to my GitHub profile! Here's a quick look at my GitHub activity and top 
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics Personal
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=flovearth&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=flovearth&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=flovearth&layout=compact&theme=radical)
 
 ---
+## 📊 GitHub Statistics Work
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=feyzsari&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=feyzsari&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=feyzsari&layout=compact&theme=radical)
